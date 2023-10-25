@@ -1,7 +1,5 @@
 # Data from National Aeronautics and Space Administration (NASA)
 
-
-
 ### This repo contains data files from 
 
 ## NASA's Goddard Institute for Space Studies (GISS)
@@ -34,8 +32,10 @@ The following are plain-text files in tabular format of temperature anomalies, i
 
 #### Programs
 
+The following programs support the article [2023 was the Hottest Summer Ever](#)
+
 - `giss.ipynb` is a Jupyter Note book that draws various charts concerning the 2023 record summer tempertures and how they are related to CO2 emissions.
 
- - `readdata.py` is a simple helper library fro reading the GISS files
+ - `readdata.py` is a simple helper library for reading the GISS files
 
 
